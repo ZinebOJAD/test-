@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <math>
 
-#Test
-
 void change (void);
 void print(void);
 
@@ -67,5 +65,5 @@ void print(){
             }
             printf("\n");
         }
-
+   return 0 ;
 }
